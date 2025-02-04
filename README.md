@@ -36,5 +36,3 @@
       - ข้อมูลต้องสามารถบันทึกใน Local Storage เพื่อการทำงานแบบออฟไลน์
 
 
-
-![image](https://github.com/user-attachments/assets/b69a49ea-5134-453c-ba2b-fb02be2b9c0f)
