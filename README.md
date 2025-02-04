@@ -1,4 +1,4 @@
-# ChapterCheck
+# ChapterHorror
 
 ## 1. ชื่อโครงการ (Project Title):
 **“โครงการพัฒนาเว็บไซต์ขายหนังสือสยองขวัญ”**
